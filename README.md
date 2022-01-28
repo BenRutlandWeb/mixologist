@@ -1,3 +1,3 @@
 # Mixologist
 
-See what cocktails you can make with the ingredients in you bar.
+See what cocktails you can make with the ingredients in your bar.
