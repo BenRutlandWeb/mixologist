@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Tequila Sunrise",
+        "ingredients": ["Tequila", "Orange Juice", "Grenadine", "Ice Cubes"],
+        "optionalIngredients": ["Cocktail Cherry", "Orange Wedge"]
+    },
+    {
+        "name": "Sex on the Beach",
+        "ingredients": [
+            "Vodka",
+            "Peach Schnapps",
+            "Orange Juice",
+            "Cranberry Juice",
+            "Crushed Ice"
+        ],
+        "optionalIngredients": ["Orange Wedge"]
+    },
+    {
+        "name": "Piña Colada",
+        "ingredients": [
+            "White Rum",
+            "Pineapple Juice",
+            "Coconut Cream",
+            "Crushed Ice"
+        ],
+        "optionalIngredients": ["Cocktail Cherry", "Pineapple Wedge"]
+    },
+    {
+        "name": "Screwdriver",
+        "ingredients": ["Vodka", "Orange Juice", "Ice Cubes"],
+        "optionalIngredients": ["Orange Slice"]
+    }
+]
