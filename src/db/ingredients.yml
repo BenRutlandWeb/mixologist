@@ -1,0 +1,130 @@
+---
+- name: Amaretto
+- name: Tequila
+- name: Grenadine
+- name: Ice
+- name: Vodka
+- name: Peach Schnapps
+- name: White Rum
+- name: Coconut Cream
+- name: Cocktail Cherry
+- name: Orange Wedge
+- name: Pineapple Wedge
+- name: Orange Slice
+- name: Kahlúa
+- name: Baileys Irish Cream Liqueur
+- name: Cointreau
+# juices
+- name: Orange Juice
+- name: Apple Juice
+- name: Tomato Juice
+- name: Cranberry Juice
+- name: Pineapple Juice
+- name: Mango Juice
+- name: Lemon Juice
+- name: Lime Juice
+- name: Grapefruit Juice
+- name: Grape Juice
+- name: Olive Juice
+- name: Raspberry Juice
+- name: Watermelon Juice
+# - name: Sugar syrup
+# - name: Lime juice
+# - name: Lemon juice
+# - name: London dry gin
+# - name: Vodka
+# - name: Light white rum
+# - name: Angostura Aromatic Bitters
+# - name: Orange juice
+# - name: Triple sec liqueur
+# - name: Dry vermouth
+# - name: Cognac V.S.O.P.
+# - name: Pineapple juice
+# - name: Sweet vermouth
+# - name: Bourbon whiskey
+# - name: Apple juice
+# - name: Pomegranate (grenadine) syrup
+# - name: Tequila (reposado)
+# - name: Egg white
+# - name: Orange bitters
+# - name: Cranberry juice (red)
+# - name: Grand Marnier liqueur
+# - name: Soda (club soda)
+# - name: Cream
+# - name: Maraschino liqueur
+# - name: Blended Scotch whisky
+# - name: Fresh mint leaves/sprigs
+# - name: Brut champagne
+# - name: Grapefruit juice (pink)
+# - name: Elderflower liqueur
+# - name: Absinthe
+# - name: Apricot brandy liqueur
+# - name: Coffee liqueur
+# - name: Campari Bitter
+# - name: Calvados apple brandy
+# - name: Amaretto liqueur
+# - name: Milk
+# - name: Black raspberry liqueur
+# - name: Runny honey
+# - name: Bénédictine D.O.M. liqueur
+# - name: White crème de cacao liqueur
+# - name: Peychaud's aromatic bitters
+# - name: Aged rum (+7 year old)
+# - name: Citrus flavoured vodka
+# - name: Chartreuse Vert (green)
+# - name: Cherry brandy liqueur
+# - name: Irish cream liqueur
+# - name: Almond (orgeat) syrup
+# - name: Cachaça
+# - name: Lime cordial
+# - name: Raspberries (fresh)
+# - name: Golden rum
+# - name: Ginger ale
+# - name: Crème de cassis
+# - name: Melon liqueur (green)
+# - name: Galliano L'Autentico liqueur
+# - name: Blue curaçao liqueur
+# - name: Drambuie liqueur
+# - name: Vanilla infused vodka
+# - name: Straight rye whiskey
+# - name: Hazelnut liqueur
+# - name: Żubrówka bison grass vodka
+# - name: Fino sherry
+# - name: Maple syrup
+# - name: Islay single malt Scotch whisky
+# - name: Agave syrup
+# - name: Chartreuse Jaune (yellow)
+# - name: Peach Schnapps liqueur
+# - name: Crème de banane liqueur
+# - name: Port wine
+# - name: White wine (Sauvignon Blanc)
+# - name: Pisco
+# - name: Apple schnapps liqueur
+# - name: Ginger beer
+# - name: Falernum liqueur
+# - name: Lemonade/Sprite/7-Up
+# - name: Coconut rum liqueur
+# - name: White crème de menthe
+# - name: Ginger liqueur
+# - name: Southern Comfort liqueur
+# - name: Dark crème de cacao liqueur
+# - name: Basil leaves
+# - name: Dubonnet Red
+# - name: Passion fruit syrup
+# - name: Jenever
+# - name: Vodka raspberry flavoured
+# - name: Sake
+# - name: Overproof rum (white)
+# - name: Strawberries (fresh)
+# - name: Ginger (fresh root)
+# - name: Navy rum
+# - name: Prosecco sparkling wine
+# - name: Vanilla sugar syrup
+# - name: Passion fruit (fresh)
+# - name: Lillet Blanc
+# - name: Honey sugar syrup
+# - name: Espresso coffee (freshly made)
+# - name: Black pepper
+# - name: Tonic water
+# - name: Anise liqueur
+# - name: Crème de framboise liqueur
