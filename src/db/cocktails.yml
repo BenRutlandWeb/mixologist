@@ -8,6 +8,7 @@
   optionalIngredients:
     - Cocktail Cherry
     - Orange Wedge
+
 - name: Sex on the Beach
   ingredients:
     - Vodka
@@ -17,6 +18,7 @@
     - Ice
   optionalIngredients:
     - Orange Wedge
+
 - name: Piña Colada
   ingredients:
     - White Rum

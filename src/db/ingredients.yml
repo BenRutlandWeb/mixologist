@@ -1,19 +1,27 @@
 ---
+# alcohols
 - name: Amaretto
 - name: Tequila
-- name: Grenadine
-- name: Ice
 - name: Vodka
 - name: Peach Schnapps
 - name: White Rum
+- name: Kahlúa
+- name: Baileys Irish Cream Liqueur
+- name: Cointreau
+- name: Champagne
+- name: Prosecco
+- name: Blue Curaçao
+# other
+- name: Orange Slice
+- name: Grenadine
+- name: Ice
 - name: Coconut Cream
 - name: Cocktail Cherry
 - name: Orange Wedge
 - name: Pineapple Wedge
-- name: Orange Slice
-- name: Kahlúa
-- name: Baileys Irish Cream Liqueur
-- name: Cointreau
+- name: Milk
+- name: Tonic Water
+
 # juices
 - name: Orange Juice
 - name: Apple Juice
@@ -29,41 +37,30 @@
 - name: Raspberry Juice
 - name: Watermelon Juice
 # - name: Sugar syrup
-# - name: Lime juice
-# - name: Lemon juice
 # - name: London dry gin
-# - name: Vodka
 # - name: Light white rum
 # - name: Angostura Aromatic Bitters
-# - name: Orange juice
 # - name: Triple sec liqueur
 # - name: Dry vermouth
 # - name: Cognac V.S.O.P.
-# - name: Pineapple juice
 # - name: Sweet vermouth
 # - name: Bourbon whiskey
-# - name: Apple juice
 # - name: Pomegranate (grenadine) syrup
 # - name: Tequila (reposado)
 # - name: Egg white
 # - name: Orange bitters
-# - name: Cranberry juice (red)
 # - name: Grand Marnier liqueur
 # - name: Soda (club soda)
 # - name: Cream
 # - name: Maraschino liqueur
 # - name: Blended Scotch whisky
 # - name: Fresh mint leaves/sprigs
-# - name: Brut champagne
-# - name: Grapefruit juice (pink)
 # - name: Elderflower liqueur
 # - name: Absinthe
 # - name: Apricot brandy liqueur
 # - name: Coffee liqueur
 # - name: Campari Bitter
 # - name: Calvados apple brandy
-# - name: Amaretto liqueur
-# - name: Milk
 # - name: Black raspberry liqueur
 # - name: Runny honey
 # - name: Bénédictine D.O.M. liqueur
@@ -83,7 +80,6 @@
 # - name: Crème de cassis
 # - name: Melon liqueur (green)
 # - name: Galliano L'Autentico liqueur
-# - name: Blue curaçao liqueur
 # - name: Drambuie liqueur
 # - name: Vanilla infused vodka
 # - name: Straight rye whiskey
@@ -94,7 +90,6 @@
 # - name: Islay single malt Scotch whisky
 # - name: Agave syrup
 # - name: Chartreuse Jaune (yellow)
-# - name: Peach Schnapps liqueur
 # - name: Crème de banane liqueur
 # - name: Port wine
 # - name: White wine (Sauvignon Blanc)
@@ -118,13 +113,12 @@
 # - name: Strawberries (fresh)
 # - name: Ginger (fresh root)
 # - name: Navy rum
-# - name: Prosecco sparkling wine
 # - name: Vanilla sugar syrup
 # - name: Passion fruit (fresh)
 # - name: Lillet Blanc
 # - name: Honey sugar syrup
 # - name: Espresso coffee (freshly made)
 # - name: Black pepper
-# - name: Tonic water
+# - name:
 # - name: Anise liqueur
 # - name: Crème de framboise liqueur
