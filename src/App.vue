@@ -20,7 +20,7 @@
         <p class="text-gray-500">
           {{
             [
-              ...(cocktail.ingredients ?? []),
+              ...(cocktail.ingredients?.map((i) => i.name) ?? []),
               ...(cocktail.optionalIngredients ?? []),
             ].join(", ")
           }}
@@ -30,11 +30,16 @@
   </div>
 </template>
 
-<script setup>
+<script lang="ts" setup>
 import { ref } from "@vue/reactivity";
 import { watchEffect } from "@vue/runtime-core";
-import COCKTAILS from "./db/cocktails.yml";
-import INGREDIENTS from "./db/ingredients.yml";
+//import COCKTAILS from "./db/cocktails.yml";
+//import INGREDIENTS from "./db/ingredients.yml";
+
+import COCKTAILS from "./data/cocktails";
+import INGREDIENTS from "./data/ingredients";
+
+console.log(COCKTAILS, INGREDIENTS);
 
 const BAR_INGREDIENTS = JSON.parse(
   localStorage.getItem("bar-ingredients") ?? "[]"
@@ -43,7 +48,9 @@ const BAR_INGREDIENTS = JSON.parse(
 // filter the cocktails to only thse that can be made
 function filterCocktails(cocktails, ingredients) {
   return cocktails.filter((cocktail) => {
-    return cocktail.ingredients.every((i) => ingredients.includes(i));
+    return cocktail.ingredients
+      .map((i) => i.name)
+      .every((i) => ingredients.includes(i));
   });
 }
 
