@@ -1,36 +1,16 @@
 ---
 # alcohols
-- name: Amaretto
-- name: Tequila
-- name: Vodka
-- name: Peach Schnapps
-- name: White Rum
-- name: Kahlúa
-- name: Baileys Irish Cream Liqueur
-- name: Cointreau
 - name: Champagne
 - name: Prosecco
 - name: Blue Curaçao
 # other
-- name: Orange Slice
-- name: Grenadine
-- name: Ice
-- name: Coconut Cream
-- name: Cocktail Cherry
-- name: Orange Wedge
-- name: Pineapple Wedge
 - name: Milk
 - name: Tonic Water
 
 # juices
-- name: Orange Juice
 - name: Apple Juice
 - name: Tomato Juice
-- name: Cranberry Juice
-- name: Pineapple Juice
 - name: Mango Juice
-- name: Lemon Juice
-- name: Lime Juice
 - name: Grapefruit Juice
 - name: Grape Juice
 - name: Olive Juice
