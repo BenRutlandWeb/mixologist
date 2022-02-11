@@ -1,15 +1,16 @@
 interface Ingredient {
-    name: string;
+  name: string;
 }
 
 interface IngredientWithMeasure extends Ingredient {
-    measure: number;
+  measure: number;
 }
 
 interface Cocktail {
-    name: string;
-    ingredients: Ingredient[];
-    optionalIngredients?: Ingredient[];
+  name: string;
+  ingredients: Ingredient[];
+  optionalIngredients?: Ingredient[];
+  method?: string[];
 }
 
 export { Ingredient, IngredientWithMeasure, Cocktail };
